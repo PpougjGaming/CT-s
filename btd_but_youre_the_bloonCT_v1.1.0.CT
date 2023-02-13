@@ -1,0 +1,1921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <Forms>
+    <UDF1 Class="TCEForm" Encoding="Ascii85">Yh[=y2nldAU:MM2b.}cxWeIh0Gi32eO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:dpp6vpVPJ/QK81sHiaTx{,9orssuZ:B5S(crsORx#j1T:z-/g+@[g@Gcrq3xqO@]!cvQhLHgN@@bGXO@b8mn00</UDF1>
+    <UDF1_1 Class="TCEForm" Encoding="Ascii85">YiD3!2nldAU:MM2b.}cxWeat2GmJN6?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwNI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_1>
+    <UDF1_2 Class="TCEForm" Encoding="Ascii85">YiD3!2nldAU:MM2b.}cxWeat2GmJN4?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwNI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_2>
+    <UDF1_3 Class="TCEForm" Encoding="Ascii85">YiD3!2nldAU:MM2b.}cxWeat2GmJN8?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwNI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_3>
+    <UDF1_4 Class="TCEForm" Encoding="Ascii85">YiD3!2nldAU:MM2b.}cxWeat2GmJN3?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwNI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_4>
+    <UDF1_5 Class="TCEForm" Encoding="Ascii85">YiD3!2nldAU:MM2b.}cxWeat2GmJN7?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwNI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_5>
+    <UDF1_1_1 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmHm97N69#5?v5kHjmWI@o$bbUkuD4]2_entl@m^B@f_2yK]beNoIZ=8w+Gat8.!%ei4g]iV6d-OKNdudR_CoZfZb*CsPHNTYg?N9$228Jvk;lBeNux%g5O#EVZZ?q?UeL(p@+i(wzme00</UDF1_1_1>
+    <UDF1_2_1 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNiH*QciO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_2_1>
+    <UDF1_3_1 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNmH*QciO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_3_1>
+    <UDF1_6 Class="TCEForm" Encoding="Ascii85">YiD3!2nldAU:MM2b.}cxWeat2GmJN5?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwNI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_6>
+    <CETrainer Class="TTrainerForm" Encoding="Ascii85">=N!Ti,cp%XNK/?8wZ}NwZ#)1Zs-t=k:$?jfNK=h,kVup43X#[qM--p_A/M{p@at]M]Gze0Guam.C^k47(UD]u0bJaJb8!wXk+O#soLoIah}bO=n@3m4Jinfu%.A:6pY.9_vb!bMe)7n5Zp24[o27iIeeMn1glG5QQNkI]4aXe@Z[xM,LcxvU.SJ9y;9:@#ygUQK8#G7G[h7n5bIMLGFE5qBH5Az$LD=F?aHc-k6LG=+iW@3fzg:b:jDUDKEx?p:kHAV,W:M.yJk_JNL+s-25Ko*^%$_GmKY/k]A;,5v*#(%pmEs]Jk2iV7#Re/)LqBp,5LH#HX{4%qku_HjqL=Br!}{BNe{@JBbZ]8+Oj4dmN[96E/rsaOm.3B7,)SMi.z_r[aX,U!V35kyV9PtJ_8^3.Y9hP^SPD$-DW](#w:FnbkGGstawvwRr]Gh.i%Q4yT1WLSJ6[UV$lx{6Fs,K{TAX2,9M]vZ(G2qa%Y!UOex)+xl8-q-?E}fcmgDRrs69tAINUSA3A}WYQ@6rGc_h7#@i..L:{xAeJU%]uRz$ZX(B*z5b/m98s^:;YS}4T1]HIn9:?IjE!tff3P+8z^l2pAIN;rC+Yg{3+-T/W97vV9HI-$w7h#:vnQw/?N6]WNwKhHM8Srthq$s6LeoF;l4RA8?7cgty,Xf;_a-38t9%A;-UhFwjiM.px*Lkwe1H/mQjY;n=gpS@Zp]CY-ZGwCOFFIY:J,QEo91D-4ekYXcYe3{bt54Jb.T}rzLg-enp75b!5LXY-O[Q1nG9(ITHhJ[0zi,tXO1)yau4_c-GFWX;LGCm3qkHbgU7j0ZFH2ID/4]Tn(#m(ncb^=4*[0Ff1eXNVeY!r(y*c#h@#k:R-RrM!B9#{X!UI}ysUX_DeURCr:yplAO,U,s[kb{]+6gQMW[el:BZ7k{w]l@,xbG)4unFi/(_NYz?=_a2y^{[i:6?yyZUmFMYr/AYYgA-yV(=@(}N^e]Q=Z.j.3),jNIe/.S5BqZq;*,lAzaPPV,dU5M^Yme%[IlDgvVlCUuk@=BZ^kM:k-ws@O1Faz[Z^r(^_?%wI#{cX,WD;Hzt[v.f41pm2mjl};*JstQ}m)</CETrainer>
+    <UDF1_7 Class="TCEForm" Encoding="Ascii85">YiD3!2nldAU:MM2b.}cxWeat2GmJN9?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwNI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_7>
+    <UDF1_1_2 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNkH*8QgO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_1_2>
+    <UDF1_2_2 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNiH*8QgO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_2_2>
+    <UDF1_3_2 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNmH*8QgO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_3_2>
+    <UDF1_4_1 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNhH*QciO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_4_1>
+    <UDF1_5_1 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNlH*QciO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_5_1>
+    <UDF1_1_1_1 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmHmA7N69#5?v5kHjmWI@o$bbUkuD4]2_entl@m^B@f_2yK]beNoIZ=8w+Git8.!%ei4g]iV6d-OKNdudR_CoZfZb*CsPHNTYg?N9$228Jvk;lBeNux%g5O#EVZZ?q?UeL(p@+i(wzme00</UDF1_1_1_1>
+    <UDF1_2_1_1 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNiH.gxA?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwOI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_2_1_1>
+    <UDF1_3_1_1 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNmH.gxA?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwOI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_3_1_1>
+    <UDF1_6_1 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNjH*QciO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_6_1>
+    <CETrainer_1 Class="TTrainerForm" Encoding="Ascii85">=N!Ti,cp%XNK?b:sy)ifdfORKR}@.qqI-([B2873Lo%.b3z63rM--p_A/M{p@at]M]Gzk2Gu..=C^k47(UD]u0bJaJb8!wX-x!J#2a}I3am.W:fK4b^,pbs7et(r}hg,[F)*({$=v]Bpv8Tm!BR:{uEagk;b8p{zJi7.%63%FjY-jAhj;oU#+uOz8-tdf*zS$r=bMp*cZ[sQx--GEc%[%#%yu4Hf+HC14B,k_l1T+!*nurrdRUDxtf4j@$AfLE7EdW^7M[=r?BcMfAo^GNN(=sR5#1$t1v+zyn4X}mlgnk{fjeZ$jDR%67)I)Hh+kDFp.Dt]=hgH;T,AUgDWX-CsD27N2FoE3i-o;F4I5+y0CMi!OrMi:ga!=:V/vwc,[mIzsxDsS8=(ov_3^tu3Z,U0,-_kFJjTkR^mI70I%Bi5]ZVOJ:/1Ocu9Eu[7sWm/IqSEoa*:}Y#ik5U2Fu2Vg46}xT7H1%X/NEfl8QzU*d5}$#uhha!?-ZhdJcydA/tY0IYR^Go4*.uO0x#t9RB+@k9+{kwJ)clmx_69VkB@Uv8PY9DGjjJ%9W;,j;cEz?mduD?ykc{$dc-*LFuaB$5L6)cBvmhl64fEu8kg3HHUO#im,,WKozP?kgphE/u7.4x3eKvTmuDN^tcs,a/PGs!P6Ov-DzMjvv+ol+G#l6J(Vp]v/x$}FWK}n=)MB?]iDAU*#,0U-t==b]v*]OoURN.fO!]UP3*T^lc0dtlz;{o[Qmj{QpXP$vgXK.:C$0=o!Xe3$3Vl+2p-1}Cd+I:3kG7NpWa5I!BA;Tm!KDGv^hjdfcWp2%86Sm+$KfOFi#9G7nta:x].m9).@t*zJC95Yd+?TiKGwx!HVVXTYJV!^.?$J@s]?;W2Nt%DR_2GuS0y(WtBRh1SCWQOyFKC]azOn;aYG4opX9LH#:;5!uUe?)#_y}qsUQF9y]MYdeXkhoALFp9Vo+![Q^$lil:2mPumj8ldSyaGX%Ww@y}qt]K_J$s4q)%-!}W31dbhX2==/p-c8]O5f6[axy]J:rY#;kTEB+2Oi{.a2/ge((rQ5-V]wn+Xe,T/-9jx)x=flm9U,ZP@Kil-Oga2+gb=u.,DgOW</CETrainer_1>
+    <UDF1_8 Class="TCEForm" Encoding="Ascii85">YiD3!2nldAU:MM2b.}cxWeat2GmN*j?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwNI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_8>
+    <UDF1_1_3 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNkH*iokO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_1_3>
+    <UDF1_2_3 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNiH*iokO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_2_3>
+    <UDF1_3_3 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNmH*iokO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_3_3>
+    <UDF1_4_2 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNhH*8QgO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_4_2>
+    <UDF1_5_2 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNlH*8QgO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_5_2>
+    <UDF1_1_1_2 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmHm8BNm[3v:U{-MmCSs%:C.B:3flVA@8PN/+ebEDJ2._F1vGLK{lwQ9vcft6RUH6PJR*Kii!#YuS.riW[n(oW@QUgfG1N0ms?@bi5@(/ojo{xJR]FtmCMK3CoHw77@I*wNY6meOwWLU0RR</UDF1_1_1_2>
+    <UDF1_2_1_2 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNi2VxeV*U+/2Z$;tc*XemZ66RkF%pv((Oy#WMnJFb1KrXv.VnIn{ejXbONE54beolT7i.9X01FuVJab_j6NM;$oK!7Jx1)#cXUWp!9o{E28Cp.swB$dm?+)WTus2HT5-AK/s(rHvNfdK#</UDF1_2_1_2>
+    <UDF1_3_1_2 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNmH.gx8?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwOI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_3_1_2>
+    <UDF1_6_2 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNjH*8QgO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_6_2>
+    <CETrainer_2 Class="TTrainerForm" Encoding="Ascii85">=N!Ti,cp%XNK/?8wZ}ObZ#)1Zs-t=c$eyC9NK?71kj!h/Lgcl?5d;(J$a3-t^ek;RzM*J1O!ox_iWHT(Gu=MZ02lY+T%3c.x2B;b.pFOBk{#ALU:zyLj[232-)Q}0.g*Nk[5Kv^yCv6t=r90#h;!j+(-haN)i@xb(,oybgfof[#}lZ6lJT1*32qDzZFo+e-*az[c^m5c8#G7G[h7n5F:Z#0mzT:m8jAdmB;5V]aHc-k6LG=+iW@3X-z^=vMnF7F3oz^JBe2qy8PXyzPc@;V(@ToP#1kg}v+,IYEwG^[WV^=+jb4qe6escgc!P5.HdwJA]jMLiQB{2=b(FONS,lAuiYd{UL.(0V]y[Hh[r^.gB._;uOn0#.$LJ$m=z6^m4_qnzl@E9IeolA5Ad^:XmUmYF=atK9Owb{:88Ee^oC.drw%}L/-f}XKp%^^$TGLZ6Djm.j9o0YVcu995gWLSUv=^7:afV?XRNvk.L%T6853)Hjm0DOS9(=hwgQ%%mj]L5T[8iIJaL*v#?Io$61qWR6fUK,Nsf:IKolHG;e0*?[h.B*ile[oopc#Kq2ac=?WJXN$HKV*IBj*LZp+0ktpaLl,nR,pls4mIZsI+4B0m!t!gvUhcgr=gff_Q$1HH1u7a8{KHoNt7*Dw0l$8^*N]Cc/MXu-B%$/,Mz,8rSRYf@K:]QQ:F(uBOtXjb?4:hB2obOPXr7Mt7jkesf;?UBR=7:[hqBSW7[K!H78no-PHDVkg4+6bot)wm0=Nq%!CWm!wN7@vR%v9[@p)frr08,ENY-3l(Tj]MeDaE*9Sl=1YbhXoFG7[$WL*4j+A)v}ju6/U8Ixi2XwsH!pM8d1PADJD+basV+L_Q7CRx]%@g:?1A#8*gKLcVBzR!B_!RURbm?xRnariO43kjx5xY:2BW[yZYY87lN?(2Sk!CvRV!8JXaU%n2Fb7fhq+i6[lm+)F%GLL2DP-mG!E*dDPO?yCqzu3S0+%-7V,%bkG+IXCbQt=05/zJ;]yJMe_szZegyk/[c+xsC%x0!;q,m)2J+DN)jU+iiXRz7^*,xqx+cq_=[gK_cd-A}!5aV9(Tk$6tzIVovrR8M[{=}O+A9A[?)%</CETrainer_2>
+    <UDF1_7_1 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNnH*QciO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_7_1>
+    <UDF1_1_2_1 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNkH.Ol8?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwOI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_1_2_1>
+    <UDF1_2_2_1 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJL@LPHjx*U+/2Z$;tc*XemZ66RkF%pv((Oy#WMnJFb1KrXv.VnIn{ejXbONE54beolT7i.9X01FuVJab_j6NM;$oK!7Jx1)#cXUWp!9o{E28Cp.swB$dm?+)WTus2HT5-AK/s(rHvNfdK#</UDF1_2_2_1>
+    <UDF1_3_2_1 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNmH.Ol8?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwOI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_3_2_1>
+    <UDF1_4_1_1 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNhH.gxA?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwOI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_4_1_1>
+    <UDF1_5_1_1 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNlH.gxA?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwOI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_5_1_1>
+    <UDF1_1_1_1_1 Class="TCEForm" Encoding="Ascii85">;t$eI2nldAU:MM2b.}cx/q36hGmM8q7N69#5?v5kHjmWI@o$bbUkuD4]2_entl@m^B@f_2yK]beNoIZ=8w+Gqt8.!%ei4g]iV6d-OKNdudR_CoZfZb*CsPHNTYg?N9$228Jvk;lBeNux%g5O#EVZZ?q?UeL(p@+i(wzme00</UDF1_1_1_1_1>
+    <UDF1_2_1_1_1 Class="TCEForm" Encoding="Ascii85">;t$eI2nldAU:MM2b.}cx/q36hGmJNiHv}ZzpVYJxW@YC_kJQZcj1uNw49p=/1x*3v.h8BV89+,)b7DbBW[{)U3rHKQbAC;K5sQk73Inf8YH=/IUPxwcYCwP_Qw5h;eqM/lSe}6dIVU[Lvm{,v$Jr,:wWt]RpWR5$K,jCifPn!3</UDF1_2_1_1_1>
+    <UDF1_3_1_1_1 Class="TCEForm" Encoding="Ascii85">;t$eI2nldAU:MM2b.}cx/q36hGmJNmHv}ZzpVYJxW@YC_kJQZcj1uNw49p=/1x*3v.h8BV89+,)b7DbBW[{)U3rHKQbAC;K5sQk73Inf8YH=/IUPxwcYCwP_Qw5h;eqM/lSe}6dIVU[Lvm{,v$Jr,:wWt]RpWR5$K,jCifPn!3</UDF1_3_1_1_1>
+    <UDF1_6_1_1 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNjH.gxA?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwOI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_6_1_1>
+    <CETrainer_1_1 Class="TTrainerForm" Encoding="Ascii85">=N!Ti,cp%XNK/?8wZ}ObZ#)1Zs-rqxbWhP#q@W9hNTzXCDMVgd96@8vge*hY(;!fZ@c%YL(vajqph!]PJJWqv1aNT:(c!+nyfqai2]5*Cl7yk00Gm+?9)aB_]_$e1;ytU$aqSPiKZX2$$,ho$T0%GCqrb}DzSREg4cwIH58zS48O4U/j*S,![-(E_H-=8cJg1}?HJC3voCDzvnj]0XFx^h:vXjfpOJ#5kMSf3]d/_hZQy:Y#IAK*94I^/xmN@F[AReX#7/Tm$Sn0_PX[1$w8eeT[oH797i4%a=b8r4Du%aYn^5ZNA^WQ8#oW%3v4bHjPV8wpuM^W^CRn:/NEm}D%(8n@[rbr7B0c]uXN#us@jX#%3${;rs=qX4n)MP!4XOH0l?QjEnF_5VIobG??CRc,k?2vjYovE3bphdtkU{^e{6_{r/!RdOu/)!g3F)f@.rl)$1I-b]$s:wLslI{tVclo1fRaDpF48!E8zP*RPc4Jx_WI6IHwXjk:/_KhfQB$:X:bu3BIg-KQo)W3fm0X=+4!Gn2Sy$0h8Na4GnR?c^@rTo3-I6RP[qXbx8NXKtj.yt0MojY!qr1^0:IMl=H58$s0x2b#dNGu!F3H!Zv[]xE$h5zN$3+IcrrRQdl$%a9giKa(R=U2zZ-lcdl1[;n./cP6!ec71+QUGWv]n-b+X!/rZh7TV.Y-7:rqZL0W^M$)F^c_#nrgO2[n@.yao[k_!L(2!Cv]7aOF-Jeh(cnEE)MTcC(Ks=3u:$HH{(15GUzLpq*RIF$*JQD=Vs#^hrd4BQVt9Y6-+ZSvJDF@4S+i)gpa;zgHg%(C[Fq4A7Nj#ak/dsJKj8q^X-WwFLT(:WLnfapHlXzE+]N[C}i}xT^#!.o[AN)Zw,}1.pk^3K;BD@VjE}x)KFFX)okx+$NVD)qrWI[D1q+i9Cq7S*NA!sD@:%c0oa*a$/O{#xjWwXioyOd4y!5#wX^Dp4)d-SU%@KwL]/MpCNz}6?$A{/y:WFDv+6_cHv2N^cP+?ccPIRQ1p9gSIJoy]z0:z3S=_aO@1Qy%A1@/P9}ngcivCu+9c.MoU_0Wlu;aP/8vobMZyo:oUMByuO*oq6-!?+=4tkmL4+</CETrainer_1_1>
+    <UDF1_9 Class="TCEForm" Encoding="Ascii85">YiD3!2nldAU:MM2b.}cxWeat2GmN*n?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwNI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_9>
+    <UDF1_1_4 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNkH)}KfO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_1_4>
+    <UDF1_2_4 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNiH)}KfO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_2_4>
+    <UDF1_3_4 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNmH)}KfO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_3_4>
+    <UDF1_4_3 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNhH*iokO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_4_3>
+    <UDF1_5_3 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNlH*iokO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_5_3>
+    <UDF1_1_1_3 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmHm8V-{y)v:U{-MmCSs%:C.B:3flVA@8PN/+ebEDJ2._F1vGLK{lwQ9vcft6RUH6PJR*Kii!#YuS.riW[n(oW@QUgfG1N0ms?@bi5@(/ojo{xJR]FtmCMK3CoHw77@I*wNY6meOwWLU0RR</UDF1_1_1_3>
+    <UDF1_2_1_3 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNiH.gxC?kvc9VfJQZ@GMB1(nRL3#lRerU%+t)8lIU[k@$thJ0{+DWaj6wv4AwOI[Kx*7qO[Qs4)!lq!wqU:Y=eErUnFfGF5Q7/;!@=f#uoRlXJo_GD{jqe4Ks4Qj3Z}]q[;24D])O3;X+y</UDF1_2_1_3>
+    <UDF1_3_1_3 Class="TCEForm" Encoding="Ascii85">;t/kJ2nldAU:MM2b.}cx/qCCiGmJNm2VxeV*U+/2Z$;tc*XemZ66RkF%pv((Oy#WMnJFb1KrXv.VnIn{ejXbONE54beolT7i.9X01FuVJab_j6NM;$oK!7Jx1)#cXUWp!9o{E28Cp.swB$dm?+)WTus2HT5-AK/s(rHvNfdK#</UDF1_3_1_3>
+    <UDF1_6_3 Class="TCEForm" Encoding="Ascii85">;ttYH2nldAU:MM2b.}cx/p[0gGmJNjH*iokO*FvcW?Ph7%{mcIVgALy9FkwaRL(ZnnNpGg/gz.[7L.V;:drPXw6Hqo:j0c$sHmtg?VcZHXQt/cWag#?1b8x4aJl8?mFR*x,1ZnG!ZR^UQn]GbeZo=Uib49;jr0uk%:8Qx7yt</UDF1_6_3>
+    <CETrainer_3 Class="TTrainerForm" Encoding="Ascii85">=N!Te/2DqPrO4D^,ytp-nr)rgtHKSYK:-mDkBz#KAZcE!mX;Z{!7@!3bex$[:nu?F%r_tIpXt7oC]+:SQlR@.MDp=.p38H1@}O,=IG9^Li)]f{0(GIr,IGEq[WRE#bGYT(C%r#};}6]mAA4F%H^zqe%}HP9KKBMr!n1pDDdCLf$acp5;v.S,j^O[t.tkIz;6.DWGdItG?CMD6@F5gE)wwrB%gak.a1BLvN8*S@K];Jvtcf@bRK+cW@0(+31M-QR)+lrHeFRprG6Gs./+DeK4UG}8KwNPGFl,A4-vBF0Lg=k[YV@zKO0i=ti#B:2#RfC-0xxu8Kdh:()^9nKB5PK4MKMHLfC:Q5[bv^dz]60{GD($NDb/{@l!N+;FZWqvxQBd3#FZd)aX,U!V35jHf6F[o_8^3.YQ%WqvlN*xQ%)gfcUy3{9(b6P/WLMrPp#;x7nP3ZwT_i@R/xwMfWd9^V3-xvwKxMA9M]vZ(G2qa%Y#f=ex)+;l8-rw.X%_=El1f$P/ysyaJXlJ6L:w*r-DOX?[?9f:(6if*16E]d3:0S%#dzLnvuJA;Yy3FR_mGNwPZ#N.{xU3)j((^gyA)5fuI5jC8;Hbl(B8L+0^7rv.j!9zl6s];VziSB7{q,b}S]lR(Z9$ygb[oXH[KaByWh/avC?vQ-QrUoGqtiqS=4!cNTQZD}{3aBCDE8k2abqNDL!RH;NbzY;n=gpZ)@%@16a*XVOpVUa+#cv.(Gb1D-4ekYdHc[%s+P9xQk2IdNss7Y/35ROpjJ2_e0B+#i%Md$gq-AQKl%7Wupl3oZ=S=)c,.ziWeG$?nNdJPsdWU$k,#)B#_h,;g9N7dJ0,+m-1H+gKz6[OUJ:vr!.!Q}Ogn7w=^TSJm(4Jg}5Jyb;UNyehE}URCrAyplAO,U+hlkOS(3iW@Fx]y[_mHWv0.ebq_UIbJ_,PyP5.?BQ2v=_a2y^{[i:6?yyZpBe{Cr/AYYgB?Td(=@%fN^e]Q=L{?l3+wo7a^!xu9rlM7+1NqGem^c!vU=od].+;j=e)O0WCM9xU,ItMU(N0LB7a4HE8Pw?,.[06_2x:!;tK!lYv.F*_5]7T_JkOO9sF,[uWJXrO!*?</CETrainer_3>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1589</ID>
+      <Description>"regrow stuff"</Description>
+      <Options moHideChildren="1"/>
+      <Color>8080FF</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1588</ID>
+          <Description>"regrow buy"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1585</ID>
+              <Description>"regrowbuy"</Description>
+              <VariableType>Float</VariableType>
+              <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+              <Offsets>
+                <Offset>C</Offset>
+                <Offset>60</Offset>
+                <Offset>0</Offset>
+                <Offset>28</Offset>
+                <Offset>C0</Offset>
+                <Offset>E70</Offset>
+                <Offset>250</Offset>
+              </Offsets>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1570</ID>
+                  <Description>"online"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>A0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>70</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1557</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1558</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497D88</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                    <Offset>440</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1560</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7458</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                    <Offset>2A0</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1563</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7468</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1561</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A76B8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1564</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7450</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1566</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>110</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1567</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>110</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1565</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1568</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1573</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>90</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1562</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7568</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1569</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1571</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>A0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>270</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1572</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>90</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1576</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7450</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1577</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1578</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>D8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1579</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>D8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1575</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7568</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1580</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>20</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>70</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1582</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>A8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1574</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1581</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>20</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>270</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1583</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>A8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1584</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>C0</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1559</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7448</Address>
+                  <Offsets>
+                    <Offset>C</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1469</ID>
+          <Description>"Regrow"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+004A7430</Address>
+          <Offsets>
+            <Offset>70</Offset>
+            <Offset>150</Offset>
+            <Offset>28</Offset>
+            <Offset>90</Offset>
+            <Offset>D30</Offset>
+            <Offset>2A8</Offset>
+            <Offset>230</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1590</ID>
+      <Description>"speed stuff"</Description>
+      <Options moHideChildren="1"/>
+      <Color>000080</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1587</ID>
+          <Description>"Speed buy"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1499</ID>
+              <Description>"speed buy value"</Description>
+              <VariableType>Float</VariableType>
+              <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+              <Offsets>
+                <Offset>4</Offset>
+                <Offset>60</Offset>
+                <Offset>8</Offset>
+                <Offset>D0</Offset>
+                <Offset>A0</Offset>
+                <Offset>700</Offset>
+                <Offset>270</Offset>
+              </Offsets>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1500</ID>
+                  <Description>"online"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>A0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>70</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1501</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1502</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1503</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1504</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7568</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1507</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7448</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1509</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1508</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497D88</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                    <Offset>440</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1510</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>D8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1506</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7458</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                    <Offset>2A0</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1514</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>90</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1517</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>C0</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1512</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>20</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>270</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1515</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>90</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1516</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>C0</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1513</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>20</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>70</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1518</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1511</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>D8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1519</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7450</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1520</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7568</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1521</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1522</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>A8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1523</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>A8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1524</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>110</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1526</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7450</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1525</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>110</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1505</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A76B8</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1527</ID>
+                  <Description>"speedbuy"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7468</Address>
+                  <Offsets>
+                    <Offset>4</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>142</ID>
+          <Description>"Speed"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"UnityPlayer.dll"+019C9748</Address>
+          <Offsets>
+            <Offset>3DC</Offset>
+            <Offset>8</Offset>
+            <Offset>D0</Offset>
+            <Offset>1B8</Offset>
+            <Offset>4E0</Offset>
+            <Offset>378</Offset>
+            <Offset>260</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>700</ID>
+          <Description>"online Speed"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"UnityPlayer.dll"+019C9748</Address>
+          <Offsets>
+            <Offset>3DC</Offset>
+            <Offset>8</Offset>
+            <Offset>D0</Offset>
+            <Offset>1B8</Offset>
+            <Offset>4E0</Offset>
+            <Offset>378</Offset>
+            <Offset>260</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1591</ID>
+      <Description>"HP stuff"</Description>
+      <Options moHideChildren="1"/>
+      <Color>008000</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1586</ID>
+          <Description>"hp buy"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1528</ID>
+              <Description>"HP buy Value"</Description>
+              <VariableType>Float</VariableType>
+              <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+              <Offsets>
+                <Offset>8</Offset>
+                <Offset>60</Offset>
+                <Offset>0</Offset>
+                <Offset>28</Offset>
+                <Offset>110</Offset>
+                <Offset>E70</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1530</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>C0</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1540</ID>
+                  <Description>"online"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>A0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>70</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1531</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>C0</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1534</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7450</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1533</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7568</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1536</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7468</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1535</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1537</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7450</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1532</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1538</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1541</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>A0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>270</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1542</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>A8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1545</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497D88</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                    <Offset>440</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1544</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1547</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7458</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                    <Offset>2A0</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1543</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>A8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1539</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>8</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1546</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7448</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1548</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A76B8</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1549</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7568</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                    <Offset>230</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1550</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>E60</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1551</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>D8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1552</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>D8</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1553</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>90</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>50</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1554</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>90</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1555</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>20</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>70</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1529</ID>
+                  <Description>"pointerscan result"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>0</Offset>
+                    <Offset>28</Offset>
+                    <Offset>110</Offset>
+                    <Offset>E70</Offset>
+                    <Offset>250</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1556</ID>
+                  <Description>"HPbuy"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+                  <Offsets>
+                    <Offset>8</Offset>
+                    <Offset>60</Offset>
+                    <Offset>20</Offset>
+                    <Offset>D0</Offset>
+                    <Offset>0</Offset>
+                    <Offset>700</Offset>
+                    <Offset>270</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>797</ID>
+          <Description>"HP"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+004A7418</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>60</Offset>
+            <Offset>0</Offset>
+            <Offset>28</Offset>
+            <Offset>D30</Offset>
+            <Offset>2A8</Offset>
+            <Offset>230</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1613</ID>
+          <Description>"MOAB HP buy"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>60</Offset>
+            <Offset>8</Offset>
+            <Offset>D0</Offset>
+            <Offset>A0</Offset>
+            <Offset>700</Offset>
+            <Offset>70</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1606</ID>
+          <Description>"MOAB HP"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+004A7458</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>DEC</Offset>
+            <Offset>7E8</Offset>
+            <Offset>2B8</Offset>
+            <Offset>4D0</Offset>
+            <Offset>B60</Offset>
+            <Offset>EA0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1612</ID>
+          <Description>"funny"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+004A7458</Address>
+          <Offsets>
+            <Offset>2</Offset>
+            <Offset>DEC</Offset>
+            <Offset>7E8</Offset>
+            <Offset>2B8</Offset>
+            <Offset>4D0</Offset>
+            <Offset>B60</Offset>
+            <Offset>EA0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1601</ID>
+          <Description>"MOAB HP(works some times)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+004A7458</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>DEC</Offset>
+            <Offset>7E8</Offset>
+            <Offset>2B8</Offset>
+            <Offset>4D0</Offset>
+            <Offset>B60</Offset>
+            <Offset>F38</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1592</ID>
+      <Description>"money stuff"</Description>
+      <Options moHideChildren="1"/>
+      <Color>FF0000</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1625</ID>
+          <Description>"money (just change the value)"</Description>
+          <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1626</ID>
+              <Description>"money"</Description>
+              <VariableType>Float</VariableType>
+              <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>60</Offset>
+                <Offset>0</Offset>
+                <Offset>28</Offset>
+                <Offset>D8</Offset>
+                <Offset>E70</Offset>
+                <Offset>50</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1627</ID>
+              <Description>"online money"</Description>
+              <VariableType>Float</VariableType>
+              <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>60</Offset>
+                <Offset>8</Offset>
+                <Offset>D0</Offset>
+                <Offset>A0</Offset>
+                <Offset>700</Offset>
+                <Offset>270</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1593</ID>
+      <Description>"jump stuff"</Description>
+      <Options moHideChildren="1"/>
+      <Color>808000</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1138</ID>
+          <Description>"Double"</Description>
+          <VariableType>Double</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>C8</Offset>
+            <Offset>28</Offset>
+            <Offset>A8</Offset>
+            <Offset>30</Offset>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>60</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1109</ID>
+          <Description>"off ground level"</Description>
+          <VariableType>Double</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+004A7440</Address>
+          <Offsets>
+            <Offset>28</Offset>
+            <Offset>60</Offset>
+            <Offset>18</Offset>
+            <Offset>E0</Offset>
+            <Offset>10</Offset>
+            <Offset>BA0</Offset>
+            <Offset>2B8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1594</ID>
+      <Description>"Abilities"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1629</ID>
+          <Description>"Fortification"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1621</ID>
+              <Description>"BloonFort"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>"UnityPlayer.dll"+0199B100</Address>
+              <Offsets>
+                <Offset>8</Offset>
+                <Offset>9B4</Offset>
+                <Offset>140</Offset>
+                <Offset>20</Offset>
+                <Offset>580</Offset>
+                <Offset>A10</Offset>
+                <Offset>980</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1628</ID>
+              <Description>"pop's left(offline)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"mono-2.0-bdwgc.dll"+004A74B0</Address>
+              <Offsets>
+                <Offset>78</Offset>
+                <Offset>150</Offset>
+                <Offset>28</Offset>
+                <Offset>38</Offset>
+                <Offset>78</Offset>
+                <Offset>D30</Offset>
+                <Offset>2A8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1616</ID>
+              <Description>"bloonFort buy"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+              <Offsets>
+                <Offset>1C</Offset>
+                <Offset>60</Offset>
+                <Offset>8</Offset>
+                <Offset>D0</Offset>
+                <Offset>A0</Offset>
+                <Offset>700</Offset>
+                <Offset>70</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1624</ID>
+          <Description>"AB."</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"UnityPlayer.dll"+0199B100</Address>
+          <Offsets>
+            <Offset>C</Offset>
+            <Offset>9B4</Offset>
+            <Offset>140</Offset>
+            <Offset>20</Offset>
+            <Offset>580</Offset>
+            <Offset>A10</Offset>
+            <Offset>980</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1622</ID>
+          <Description>"superspeed"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"UnityPlayer.dll"+0199B100</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>9B4</Offset>
+            <Offset>140</Offset>
+            <Offset>20</Offset>
+            <Offset>580</Offset>
+            <Offset>A10</Offset>
+            <Offset>980</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1623</ID>
+          <Description>"regrow AMP"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"UnityPlayer.dll"+0199B100</Address>
+          <Offsets>
+            <Offset>4</Offset>
+            <Offset>9B4</Offset>
+            <Offset>140</Offset>
+            <Offset>20</Offset>
+            <Offset>580</Offset>
+            <Offset>A10</Offset>
+            <Offset>980</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1614</ID>
+          <Description>"superspeedbuy"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>14</Offset>
+            <Offset>60</Offset>
+            <Offset>8</Offset>
+            <Offset>D0</Offset>
+            <Offset>A0</Offset>
+            <Offset>700</Offset>
+            <Offset>70</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1615</ID>
+          <Description>"Regrow AMP buy"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>18</Offset>
+            <Offset>60</Offset>
+            <Offset>8</Offset>
+            <Offset>D0</Offset>
+            <Offset>A0</Offset>
+            <Offset>700</Offset>
+            <Offset>70</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1617</ID>
+          <Description>"EMP buy"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>20</Offset>
+            <Offset>60</Offset>
+            <Offset>8</Offset>
+            <Offset>D0</Offset>
+            <Offset>A0</Offset>
+            <Offset>700</Offset>
+            <Offset>70</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1595</ID>
+      <Description>"game/in game level stuff"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>715</ID>
+          <Description>"Hearts"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+004A74B0</Address>
+          <Offsets>
+            <Offset>74</Offset>
+            <Offset>150</Offset>
+            <Offset>28</Offset>
+            <Offset>38</Offset>
+            <Offset>78</Offset>
+            <Offset>D30</Offset>
+            <Offset>2A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>426</ID>
+          <Description>"Round"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>60</Offset>
+            <Offset>0</Offset>
+            <Offset>28</Offset>
+            <Offset>C0</Offset>
+            <Offset>710</Offset>
+            <Offset>70</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1632</ID>
+      <Description>"bloon stuff"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1631</ID>
+          <Description>"auto move left(+) and right(-)"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Double</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>CC</Offset>
+            <Offset>28</Offset>
+            <Offset>A8</Offset>
+            <Offset>30</Offset>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>60</Offset>
+          </Offsets>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>37</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>39</Key>
+              </Keys>
+              <Value>-9999</Value>
+              <ID>1</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>97</Key>
+              </Keys>
+              <Value>0</Value>
+              <ID>2</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1633</ID>
+          <Description>"max jump."</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Double</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>D4</Offset>
+            <Offset>28</Offset>
+            <Offset>A8</Offset>
+            <Offset>30</Offset>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>60</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1636</ID>
+          <Description>"better max jump."</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>D8</Offset>
+            <Offset>28</Offset>
+            <Offset>A8</Offset>
+            <Offset>30</Offset>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>60</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1637</ID>
+          <Description>"better max jump."</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>DC</Offset>
+            <Offset>28</Offset>
+            <Offset>A8</Offset>
+            <Offset>30</Offset>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>60</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1635</ID>
+          <Description>"downwards speed"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>CC</Offset>
+            <Offset>28</Offset>
+            <Offset>A8</Offset>
+            <Offset>30</Offset>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>60</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1634</ID>
+          <Description>"bobing up and down amount"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Double</VariableType>
+          <Address>"mono-2.0-bdwgc.dll"+00497DE8</Address>
+          <Offsets>
+            <Offset>C8</Offset>
+            <Offset>28</Offset>
+            <Offset>A8</Offset>
+            <Offset>30</Offset>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>60</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Made By Wojtek Dudek (discord: wojtek#4555)
+</Comments>
+</CheatTable>
